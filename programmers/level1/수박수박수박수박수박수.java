@@ -4,6 +4,7 @@ public class 수박수박수박수박수박수 {
 
     public static void main(String[] args) {
         System.out.println(solution(3));
+        //System.out.println(solution(5));
     }
 
     private static String solution(int n){
